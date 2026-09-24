@@ -1,0 +1,7 @@
+{
+  "cities": ["Mumbai"],
+  "categories": ["Restaurants"],
+  "maxItems": 100,
+  "enrichContacts": true,
+  "proxyConfiguration": { "useApifyProxy": true }
+}

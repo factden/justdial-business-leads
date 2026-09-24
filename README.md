@@ -7,6 +7,8 @@ Documentation and examples for the **[Justdial Business Leads Scraper](https://a
 
 > ▶ **[Run it on Apify →](https://apify.com/factden/justdial-business-leads?fpr=factden)**
 
+<a href="https://apify.com/factden/justdial-business-leads?fpr=factden" rel="sponsored noopener"><img src="https://raw.githubusercontent.com/factden/apify-actor-assets/main/justdial-business-leads/02-business-leads-overview.png" alt="Justdial Business Leads output: real phone, WhatsApp, owner name and role, email and GST per business" width="900"></a>
+
 ## What it extracts
 
 Pick Indian **cities or states + business categories** (Restaurants, Gyms, Dentists, Plumbers, and more), or paste Justdial URLs, and get a clean, deduplicated lead list:

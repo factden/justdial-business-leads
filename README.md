@@ -74,7 +74,6 @@ Pay-per-result with an Apify free trial to start. Enriched leads and Discovery a
 
 - [MCA India Company & Director Data Scraper](https://apify.com/factden/mca-company-director-scraper?fpr=factden) ([docs](https://github.com/factden/mca-company-director-scraper))
 - [Indeed Jobs Scraper](https://apify.com/factden/indeed-jobs-scraper?fpr=factden)
-- [Zomato Restaurant Reviews Scraper](https://apify.com/factden/zomato-restaurant-reviews-scraper?fpr=factden)
 - [G2 Software Reviews Scraper](https://apify.com/factden/g2-reviews-scraper?fpr=factden)
 
 [**All FactDen actors →**](https://apify.com/factden?fpr=factden)

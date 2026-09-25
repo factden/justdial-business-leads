@@ -7,6 +7,8 @@ Documentation and examples for the **[Justdial Business Leads Scraper](https://a
 
 > ▶ **[Run it on Apify →](https://apify.com/factden/justdial-business-leads?fpr=factden)**
 
+<a href="https://apify.com/factden/justdial-business-leads?fpr=factden" rel="sponsored noopener"><img src="https://raw.githubusercontent.com/factden/apify-actor-assets/main/justdial-business-leads/how-it-works.png" alt="How Justdial Business Leads works: pick a city and category or a whole state, fan out past the ~100-result cap, and get one structured row per business with the real phone, owner, email, WhatsApp and unmasked GST" width="900"></a>
+
 <a href="https://apify.com/factden/justdial-business-leads?fpr=factden" rel="sponsored noopener"><img src="https://raw.githubusercontent.com/factden/apify-actor-assets/main/justdial-business-leads/02-business-leads-overview.png" alt="Justdial Business Leads output: real phone, WhatsApp, owner name and role, email and GST per business" width="900"></a>
 
 ## What it extracts

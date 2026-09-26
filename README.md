@@ -5,7 +5,7 @@
 
 Documentation and examples for the **[Justdial Business Leads Scraper](https://apify.com/factden/justdial-business-leads?fpr=factden)** on the Apify Store, an actor that extracts **business leads with real phone numbers, emails, owner names and GST** from [Justdial](https://www.justdial.com), India's largest business directory.
 
-> ▶ **[Run it on Apify →](https://apify.com/factden/justdial-business-leads?fpr=factden)**
+> ▶ **[Run it on Apify →](https://apify.com/factden/justdial-business-leads?fpr=factden)** &nbsp;·&nbsp; 🎬 **[Watch the 90-second walkthrough](https://www.youtube.com/watch?v=rp_axXqSd2I)**
 
 <a href="https://apify.com/factden/justdial-business-leads?fpr=factden" rel="sponsored noopener"><img src="https://raw.githubusercontent.com/factden/apify-actor-assets/main/justdial-business-leads/how-it-works.png" alt="How Justdial Business Leads works: pick a city and category or a whole state, fan out past the ~100-result cap, and get one structured row per business with the real phone, owner, email, WhatsApp and unmasked GST" width="900"></a>
 
